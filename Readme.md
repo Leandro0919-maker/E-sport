@@ -36,7 +36,7 @@ Para executar este projeto localmente, você precisará de uma chave de API do G
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Leandro0919-maker/E-sport)
     ```
 
 2.  **Abra o arquivo `index.html`:**
